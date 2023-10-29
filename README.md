@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src = "https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16YzVpdWYxMDA0ODBma3V6dTBxYnpxOCIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19" width="200" height="200" />   <img src = "https://assets.holopin.io/hf2023levels/level0-gold-0-0-0.webp" width="200" height="200"/>  <img src = "https://assets.holopin.io/hf2023levels/level1-gold-cat-0-0.webp" width="200" height="200"/>  <img src = "https://assets.holopin.io/hf2023levels/level2-gold-cat-ducky-0.webp" width="400" height="400"/> 
+<img src = "https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16YzVpdWYxMDA0ODBma3V6dTBxYnpxOCIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19" width="200" height="200" />   <img src = "https://assets.holopin.io/hf2023levels/level0-gold-0-0-0.webp" width="200" height="200"/>  <img src = "https://assets.holopin.io/hf2023levels/level1-gold-cat-0-0.webp" width="200" height="200"/>  <img src = "https://assets.holopin.io/hf2023levels/level2-gold-cat-ducky-0.webp" width="200" height="200"/> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shree404&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
