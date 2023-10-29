@@ -2,6 +2,8 @@
 
 <img src = "https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16YzVpdWYxMDA0ODBma3V6dTBxYnpxOCIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19" width="400" height="400"/> 
 
+<img src = "https://assets.holopin.io/hf2023levels/level0-gold-0-0-0.webp" width="400" height="400"/> 
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=shree404&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shree404)](https://github.com/anuraghazra/github-readme-stats)
