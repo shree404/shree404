@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![An image of @shree404's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shree404)](https://holopin.io/@shree404)
+[![An image of @shree404's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shree404)]
 
 
 
