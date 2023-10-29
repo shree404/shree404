@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Alt text](image.png) | width=100)
+![Alt text](image.png)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shree404&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
