@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Alt text](image.png)
+<img src = " https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16YzVpdWYxMDA0ODBma3V6dTBxYnpxOCIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19" width="100" height="100"/> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shree404&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
