@@ -12,7 +12,7 @@
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=shree404)
 
-<a href="https://github.com/shree404/convoychat">
+
 
 <!--
 **shree404/shree404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
